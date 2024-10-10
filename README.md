@@ -14,3 +14,10 @@
 10. validator : we validate the user data coming from frontend
 11. cloudinary : this is a popular cloud-based image and video management service
 12. bcrypt : using this we will encrypt our user password and stored in database
+
+
+## Packeaged used in Admin Panel
+
+1. axios: used to send api calls
+2. react-router-dom: use to create routes
+3. react-toastify: use to display toast notifications
